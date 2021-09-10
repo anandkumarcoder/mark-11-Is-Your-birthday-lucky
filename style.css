@@ -80,6 +80,7 @@ footer {
 
 .fa{
     margin: 0 1.5rem;
+    color: var(--primary-color);
     
 }
 
